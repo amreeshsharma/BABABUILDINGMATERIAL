@@ -248,6 +248,7 @@ Some planned improvements for future versions include:
 - Added better visual hierarchy.
 - Improved section-to-section navigation.
 - Added smoother scrolling.
+- add more functionality.
 
 ---
 
