@@ -234,7 +234,7 @@ Some planned improvements for future versions include:
 
 ---
 
-## 🔵 v1.1.0 — UI & UX Improvements
+ 🔵 v1.1.0 — UI & UX Improvements
 
 **August 2026**
 
@@ -251,7 +251,7 @@ Some planned improvements for future versions include:
 
 ---
 
-## 🟡 v1.2.0 — Business Website Update
+🟡 v1.2.0 — Business Website Update
 
 **Planned**
 
@@ -265,7 +265,7 @@ Some planned improvements for future versions include:
 
 ---
 
-## 🔴 v2.0.0 — Future Full Website
+🔴 v2.0.0 — Future Full Website
 
 **Planned**
 
