@@ -44,7 +44,7 @@ The main goal is to make it easy for customers to understand the business and co
 
 ---
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - HTML5
 - CSS3
